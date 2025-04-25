@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Strona-1" id="lS7_9RMO_Ry_OY6plTxS">
+    <mxGraphModel dx="1042" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-1" value="Lista komponentów" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="20" y="18" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-5" value="«exe»&lt;br&gt;&lt;b&gt;Serwer WWW&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="20" y="60" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="n6rLd_QB-TFA8O5QbDTN-5" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-7" value="«page»&lt;br&gt;&lt;b&gt;Sklep internetowy&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="20" y="190" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="n6rLd_QB-TFA8O5QbDTN-7" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-9" value="«exe»&lt;br&gt;&lt;b&gt;Klient WWW&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="20" y="320" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="n6rLd_QB-TFA8O5QbDTN-9" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-11" value="«exe»&lt;br&gt;&lt;b&gt;Mobilny klient WWW&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="20" y="450" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-12" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="n6rLd_QB-TFA8O5QbDTN-11" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-13" value="«Db»&lt;br&gt;&lt;b&gt;Sklep DB.access&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="270" y="60" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-14" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="n6rLd_QB-TFA8O5QbDTN-13" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-15" value="«exe»&lt;br&gt;&lt;b&gt;MS Access Engine&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="270" y="190" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-16" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="n6rLd_QB-TFA8O5QbDTN-15" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-17" value="«exe»&lt;br&gt;&lt;b&gt;Serwer telnet&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="270" y="320" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-18" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="n6rLd_QB-TFA8O5QbDTN-17" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-19" value="«exe»&lt;br&gt;&lt;b&gt;Klient Telnet&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="270" y="450" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-20" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="n6rLd_QB-TFA8O5QbDTN-19" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-21" value="«library»&lt;br&gt;&lt;b&gt;Biblioteka SSL&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="530" y="60" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n6rLd_QB-TFA8O5QbDTN-22" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="n6rLd_QB-TFA8O5QbDTN-21" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
